@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ad1c7020e45954991c5b9f8281664f, type: 3}
+  m_Name: InputFlow
+  m_EditorClassIdentifier: 
+  _nodes:
+  - {fileID: 11400000, guid: d061014af32ea3d49a1fb26593ce459f, type: 2}
+  - {fileID: 11400000, guid: 3756e98e1eb63164380c2618ee25ebca, type: 2}
+  - {fileID: 11400000, guid: f9ccb5c1b8297b946aaa034aa5c00325, type: 2}

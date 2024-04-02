@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d38835957e778343a9fc1bfc79ba0ae, type: 3}
+  m_Name: level41
+  m_EditorClassIdentifier: 
+  MapSize: {x: 11, y: 14}
+  Items:
+  - ID: solid
+    TilePosition: {x: 4, y: 1}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 3, y: 2}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 8, y: 2}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 1, y: 3}
+    CustomDataList: []
+  - ID: player
+    TilePosition: {x: 3, y: 3}
+    CustomDataList: []
+  - ID: collapsable_part
+    TilePosition: {x: 5, y: 5}
+    CustomDataList:
+    - Key: orientation
+      Value: 3
+  - ID: collapsable_center
+    TilePosition: {x: 5, y: 6}
+    CustomDataList:
+    - Key: orientation
+      Value: 1
+  - ID: solid
+    TilePosition: {x: 9, y: 6}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 2, y: 7}
+    CustomDataList: []
+  - ID: collapsable_part
+    TilePosition: {x: 5, y: 7}
+    CustomDataList:
+    - Key: orientation
+      Value: 1
+  - ID: collapsable_part
+    TilePosition: {x: 2, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 0
+  - ID: collapsable_center
+    TilePosition: {x: 3, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 0
+  - ID: collapsable_part
+    TilePosition: {x: 4, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 2
+  - ID: finish
+    TilePosition: {x: 5, y: 8}
+    CustomDataList: []
+  - ID: collapsable_part
+    TilePosition: {x: 6, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 0
+  - ID: collapsable_center
+    TilePosition: {x: 7, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 0
+  - ID: collapsable_part
+    TilePosition: {x: 8, y: 8}
+    CustomDataList:
+    - Key: orientation
+      Value: 2
+  - ID: solid
+    TilePosition: {x: 6, y: 9}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 2, y: 10}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 7, y: 11}
+    CustomDataList: []
+  - ID: solid
+    TilePosition: {x: 4, y: 12}
+    CustomDataList: []
+  HasTutorial: 1
+  Tutorial:
+    Key: gate
+    Title:
+      m_TableReference:
+        m_TableCollectionName: GUID:a3a14cf49db5d8f44bbafcc0e9f231fd
+      m_TableEntryReference:
+        m_KeyId: 629651187003392
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Subtitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:a3a14cf49db5d8f44bbafcc0e9f231fd
+      m_TableEntryReference:
+        m_KeyId: 693983665025024
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Text:
+      m_TableReference:
+        m_TableCollectionName: GUID:a3a14cf49db5d8f44bbafcc0e9f231fd
+      m_TableEntryReference:
+        m_KeyId: 694153685331968
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Prefab: {fileID: 7491759425175744293, guid: 432fcd34741cfd448a4d25b2ac8d0ab2, type: 3}
+  references:
+    version: 2
+    RefIds: []

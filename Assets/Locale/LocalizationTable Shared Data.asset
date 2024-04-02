@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizationTable
+  m_TableCollectionNameGuidString: a3a14cf49db5d8f44bbafcc0e9f231fd
+  m_Entries:
+  - m_Id: 736827371520
+    m_Key: Main Menu/Canvas/Panel/Play Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1950826721280
+    m_Key: Settings/Canvas/Panel/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146541334528
+    m_Key: Settings/Canvas/Panel/Panel/Music Toggle/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2229391421440
+    m_Key: Settings/Canvas/Panel/Panel/Sound Toggle/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258084655104
+    m_Key: Settings/Canvas/Panel/Panel/Vibro Toggle/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5050354462720
+    m_Key: Settings/Canvas/Panel/Delete Data Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5135855349760
+    m_Key: Settings/Canvas/Panel/Back Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202150518784
+    m_Key: Settings/Canvas/Panel/Delete Data Confiramtion/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5260187103232
+    m_Key: Settings/Canvas/Panel/Delete Data Confiramtion/Confirmation Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13085219057664
+    m_Key: LevelName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155467918962688
+    m_Key: Settings/Canvas/Panel/Delete Data Confiramtion/Panel/Cancel Button/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250525628329984
+    m_Key: Tutorial/Welcome/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251022925983744
+    m_Key: Tutorial/Welcome/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251233236774912
+    m_Key: Tutorial/Welcome/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352150359470080
+    m_Key: Tutorial/Destroyable/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352241656885248
+    m_Key: Tutorial/Destroyable/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387915349061632
+    m_Key: End/Canvas/Panel/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388032823128064
+    m_Key: End/Canvas/Panel/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388424080388096
+    m_Key: End/Canvas/Panel/Back Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629651187003392
+    m_Key: Tutorial/Default/NewBlockTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630280361963520
+    m_Key: Tutorial/Rotatable/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631636904734720
+    m_Key: Tutorial/Rotatable/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637550869180416
+    m_Key: Tutorial/Orb/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637848723484672
+    m_Key: Tutorial/Orb/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644982798381056
+    m_Key: Tutorial/Transparent/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645386420449280
+    m_Key: Tutorial/Transparent/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693983665025024
+    m_Key: Tutorial/Collapsable/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694153685331968
+    m_Key: Tutorial/Collapsable/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701017680605184
+    m_Key: Tutorial/Button/Subtext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701155887116288
+    m_Key: Tutorial/Button/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706670990028800
+    m_Key: Tutorial/Freezer/Subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707098167308288
+    m_Key: Tutorial/Freezer/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727504353849344
+    m_Key: Main Menu/Canvas/Panel/Panel/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 717166532116348952
+  references:
+    version: 2
+    RefIds:
+    - rid: 717166532116348952
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699387023577
