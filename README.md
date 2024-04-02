@@ -7,7 +7,7 @@
    <h3 align="center">BlockPath - Puzzle Game</h3>
 
    <p align="center">
-    A little puzzle where you have to navigate through different blocks to pass levels
+    🧩 A little puzzle where you have to navigate through different blocks to pass levels 🎲
    </p>
 
    <p align="center">
@@ -22,16 +22,20 @@
   <img src=".github/screen-2.jpg" alt="" width="200">
   <img src=".github/screen-3.jpg" alt="" width="200">
 </div>
-<br/>
+<br />
+<p align="center">
+✨ This is a simple grid-based puzzle game, containing <b>50 levels</b> with different blocks & challenges. <i>Can you beat all of them?</i> 😊
+</p>
 
 # Getting started
 
-## Play game
-Download `.apk` file on <a href="https://starpandax.itch.io/blockpath/purchase">itch.io</a> page
+### Play game
 
-- or: <a href="https://starpandax.itch.io/blockpath">Play Online</a> WebGL version
+<a href="https://starpandax.itch.io/blockpath">Play Online</a> WebGL version
 
-## Build
+- or: Download `.apk` file on <a href="https://starpandax.itch.io/blockpath/purchase">itch.io</a> page
+
+### Build
 
 1. Clone the repo
     ```bash
